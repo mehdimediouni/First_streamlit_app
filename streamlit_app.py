@@ -1,1 +1,2 @@
-create the main python file
+import streamlit()
+strealmit.title('we are trying a new recepe')
