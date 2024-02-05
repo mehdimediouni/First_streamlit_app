@@ -1,2 +1,2 @@
 import streamlit
-strealmit.title('we are trying a new recepe')
+streamlit.title('we are trying a new recepe')
